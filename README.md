@@ -1,2 +1,2 @@
 # hackcameracvv
-Hack camera
+hack camera for termux 
